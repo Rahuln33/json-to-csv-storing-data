@@ -1,0 +1,21 @@
+
+student = {
+    'personal_info': {
+        'name': 'Alice',
+        'age': 20,
+        'contact_info': {
+            'email': 'alice@example.com',
+            'phone': '123-456-7890'
+        }
+    },
+    'academic_info': {
+        'major': 'Computer Science',
+        'gpa': 3.5,
+        'year': 3,
+        'courses': {
+            'fall': ['Data Structures', 'Algorithms'],
+            'spring': ['Database Systems', 'Operating Systems']
+            'name':'abcd'
+        }
+    }
+} 
