@@ -32,7 +32,7 @@ student = {
         'courses': {
             'fall': ['Data Structures', 'Algorithms'],
             'spring': ['Database Systems', 'Operating Systems'],
-            'name': 'abcd'  # Added 'name' key under 'courses'
+            'name': 'abcd' 
         }
     }
 }
